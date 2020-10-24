@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  </p>
 
   <p>
-
+ <img  align="right" top=100px width=300 height=300 src="https://user-images.githubusercontent.com/60843507/96028597-1ae45200-0e77-11eb-8e85-051929023a9f.gif" />
 <em>
 
   **Talking about Personal Stuffs:**
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 💬 i am always available  to clear all your stuffs;
 - 📫 Please email via ganapathy200subramanian@gmail.com to reach me;
 
-    <img  align="right" top=100px width=300 height=300 src="https://user-images.githubusercontent.com/60843507/96028597-1ae45200-0e77-11eb-8e85-051929023a9f.gif" />
+   
   
   </em>
 ### Languages and Tools:  
