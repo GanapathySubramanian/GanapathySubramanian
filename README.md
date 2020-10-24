@@ -42,10 +42,7 @@ Here are some ideas to get you started:
   <br/>
 ### Languages and Tools:  
   <p>
-
- <br />
-  <br />
-  <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
+    <img align="left" alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
   <img align="left" alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
   <img align="left" alt="js" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027422-7e6d8000-0e75-11eb-9e2b-90e82ca898b9.png" />
   <img align="left" alt="php" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027427-80374380-0e75-11eb-978a-f7abd836eaa9.png" />
