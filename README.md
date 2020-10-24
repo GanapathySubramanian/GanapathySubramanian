@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Ganapathy Subramanian](https://www.linkedin.com/in/ganapathy-subramanian-897325194/)! 
+### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>  I am [Ganapathy Subramanian](https://www.linkedin.com/in/ganapathy-subramanian-897325194/)! 
 
 <!--
 **ganapathyda/ganapathyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+
 
 🔭 I’m currently pursuing BTech Information Technology on [velammal college of engineering and technology](https://vcet.ac.in/); ...
 
