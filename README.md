@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 Languages and Tools:
  <br />
   <br />
-  <img width=40 height=40 src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
-  <img width=40 height=40 src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
-  <img width=40 height=40 src="https://user-images.githubusercontent.com/60843507/96027422-7e6d8000-0e75-11eb-9e2b-90e82ca898b9.png" />
-  <img width=40 height=40 src="https://user-images.githubusercontent.com/60843507/96027427-80374380-0e75-11eb-978a-f7abd836eaa9.png" />
-  <img width=40 height=40 src="https://user-images.githubusercontent.com/60843507/96027425-80374380-0e75-11eb-89d7-a081474f09bc.png" />
+  <img alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
+  <img alt="css" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027434-81687080-0e75-11eb-9754-857c41274a41.png" />
+  <img alt="js" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027422-7e6d8000-0e75-11eb-9e2b-90e82ca898b9.png" />
+  <img alt="php" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027427-80374380-0e75-11eb-978a-f7abd836eaa9.png" />
+  <img alt="mysql" width="26px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  </p>
  
 
