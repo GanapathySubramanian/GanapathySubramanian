@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </em>
   <br/>
   <p>
-Languages and Tools:
+  Languages and Tools:
  <br />
   <br />
   <img alt="html" width="26px" height="30px" src="https://user-images.githubusercontent.com/60843507/96027439-82010700-0e75-11eb-83bc-94c9e11cd5fd.png" />
