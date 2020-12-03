@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <p>
  <img  align="right" top=100px width=300 height=300 src="https://user-images.githubusercontent.com/60843507/96028597-1ae45200-0e77-11eb-8e85-051929023a9f.gif" />
 <em>
+  
+  
 
   **Talking about Personal Stuffs:**
 
