@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ganapathyda" height="30" width="40" /></a>
 <a href="https://twitter.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://fb.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganapathyda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganapathysubramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
+<a href="https://fb.com/ganapathysubramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
 <a href="https://instagram.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganapathyda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ganapathyda" height="30" width="40" /></a>
 </p>
