@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=dark)
+![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=radial)
 
 <br/>
 <br/>
  
-![Ganapathy's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ganapathyda&show_icons=true&theme=dark)
+![Ganapathy's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ganapathyda&show_icons=true&theme=radial)
 
