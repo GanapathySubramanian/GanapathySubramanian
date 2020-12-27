@@ -74,6 +74,5 @@ Here are some ideas to get you started:
  
 ![Ganapathy's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ganapathyda&show_icons=true&theme=radical)
 
-<img src="https://komarev.com/ghpvc/?username=ganapathyda&label=Profile%20views&color=0e75b6&style=flat"> 
-[![Linkedin Badge](https://img.shields.io/badge/-ganapathyda%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganapathy-subramanian-897325194/)](https://www.linkedin.com/in/ganapathy-subramanian-897325194/) [![Instagram Badge](https://img.shields.io/badge/-@ganapathyda?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/ganapathyda/)](https://www.instagram.com/ganapathyda/) [![Twitter Badge](https://img.shields.io/badge/-@ganapathyda?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ganapathyda)](https://twitter.com/Ganapathyda)[![Gmail Badge](https://img.shields.io/badge/-@ganapathyda?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ganapathy2000subramanian@gmail.com)](mailto:ganapathy2000subramanian@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=ganapathyda&label=Profile%20views&color=0e75b6&style=flat">
 
