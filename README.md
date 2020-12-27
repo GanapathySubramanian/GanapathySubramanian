@@ -40,7 +40,7 @@ Here are some ideas to get you started:
    
   </em>
 
-<img  width="100%" height="30%" src="https://user-images.githubusercontent.com/60843507/103166902-a6ea0100-484c-11eb-80c7-2bfa1f565c54.gif" />
+<img   src="https://user-images.githubusercontent.com/60843507/103167013-8f5f4800-484d-11eb-80be-f7b3d95c52c1.gif" />
 
 
 <br/>
