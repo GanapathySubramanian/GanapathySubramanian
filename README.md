@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganapathyda" alt="ganapathyda" /></a> </p>
+
 
 
 ![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=radical)
@@ -57,9 +57,6 @@ Here are some ideas to get you started:
 <br/>
  
 ![Ganapathy's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ganapathyda&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganapathyda&" alt="ganapathyda" /></p>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganapathyda&label=Profile%20views&color=0e75b6&style=flat" alt="ganapathyda" /> </p>
