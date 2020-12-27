@@ -25,8 +25,7 @@ Here are some ideas to get you started:
   </em>
  </p>
 
-  <p>
- <img  align="right" top=100px width=300 height=300 src="https://user-images.githubusercontent.com/60843507/96028597-1ae45200-0e77-11eb-8e85-051929023a9f.gif" />
+  <p>  
 <em>
   
   
@@ -39,12 +38,11 @@ Here are some ideas to get you started:
 - 📫 Please email via ganapathy200subramanian@gmail.com to reach me;
 
    
-  
   </em>
 <br/>
 <br/>
 <br/>
-
+<img  width="300px" height="30%" src="https://user-images.githubusercontent.com/60843507/103166902-a6ea0100-484c-11eb-80c7-2bfa1f565c54.gif" />
 ![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=radial)
 
 <br/>
