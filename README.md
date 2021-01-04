@@ -78,8 +78,6 @@ Here are some ideas to get you started:
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <!--couchdb-->
   <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> 
-  <!--Xampp-->
-  <a href="https://www.apachefriends.org/index.html"><img src="https://p1.hiclipart.com/preview/653/180/960/numix-circle-for-windows-xampp-icon-png-icon-thumbnail.jpg" alt="xampp" width="40" height="40"/></a>
   <!--postman-->
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
