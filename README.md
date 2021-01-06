@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently pursuing BTech Information Technology on [velammal college of engineering and technology](https://vcet.ac.in/)...
+🔭 I’m currently pursuing BTech Information Technology at [velammal college of engineering and technology](https://vcet.ac.in/)...
 
 <p>
   <em>
