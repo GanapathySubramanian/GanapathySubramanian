@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
   
 
-  **Talking about Personal Stuffs :**
+  **Talking about My Personal Stuffs :**
 
 
 - 🤔 My interests are with Web App Development 
