@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🤔 My interests are with Web App Development 
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via ganapathy200subramanian@gmail.com to reach me.
-- Visite my personal site [click here](https://ganapathyda.github.io/Personal-Site/)
+- Visit my personal site [click here](https://ganapathyda.github.io/Personal-Site/)
 
    
   </em>
