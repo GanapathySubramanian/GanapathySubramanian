@@ -84,6 +84,9 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/in/products/flashplayer/end-of-life.html" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Flash.png" alt="Flash" width="40" height="40"/> </a>
   <!--Adobe illustrator-->
   <a href="https://www.adobe.com/in/products/illustrator" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQloHm47pmbddzLNDV__oBMBqIH5kpFP-aaQ&usqp=CAU" alt="illustrator" width="40" height="40"/> </a>
+  <!--Canvas-->
+  <a href="#" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/vector-icons-15/96/740-512.png" alt="canvas" width="40" height="40"/> </a>
+  
 </p>
 
  
