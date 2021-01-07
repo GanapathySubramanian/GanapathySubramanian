@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    
   </em>
 
-<img  align="center" width="700px" height="400px" src="https://user-images.githubusercontent.com/60843507/103167013-8f5f4800-484d-11eb-80be-f7b3d95c52c1.gif" />
+<img  align="center" width="700px" height="400px" src="https://user-images.githubusercontent.com/60843507/103853759-d7476000-50d4-11eb-9c22-e1de65756d21.gif" />
 
 
 <br/>
