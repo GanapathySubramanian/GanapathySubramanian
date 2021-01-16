@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   <!--javascript-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <!--jQuery-->
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQFp8tBw14cgAZDXqpSODWqSlFz5H7a-kzw&usqp=CAU" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11Hi-TGuoK0xhT2apQvS071z763NTeZ8gBA&usqp=CAU" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" target="_blank"> <img src="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="javascript" width="40" height="40"/> </a>
   <!--php-->
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <!--mysql-->
