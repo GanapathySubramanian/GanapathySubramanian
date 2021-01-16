@@ -68,6 +68,8 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <!--javascript-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+   <!--jQuery-->
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQFp8tBw14cgAZDXqpSODWqSlFz5H7a-kzw&usqp=CAU" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11Hi-TGuoK0xhT2apQvS071z763NTeZ8gBA&usqp=CAU" alt="javascript" width="40" height="40"/> </a>
   <!--php-->
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <!--mysql-->
