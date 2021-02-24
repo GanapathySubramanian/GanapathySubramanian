@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 
 - 🤔 My interests are with Web App Development 
+- 🌱 I’m currently learning more about java programming 
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via ganapathy2000subramanian@gmail.com to reach me.
 - Visit my personal site [click here](https://ganapathyda.github.io/Personal-Site/)
