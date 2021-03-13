@@ -42,8 +42,7 @@ Here are some ideas to get you started:
    
   </em>
 
-<img  align="center" width="970px" height="500px" src="https://user-images.githubusercontent.com/60843507/103853759-d7476000-50d4-11eb-9c22-e1de65756d21.gif" />
-
+<img  align="center" width="970px" height="500px" src="https://user-images.githubusercontent.com/60843507/111036667-5b57f400-8446-11eb-9fbd-fdb1e98fe426.png" />
 
 <br/>
 <br/>
