@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about java programming 
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via ganapathy2000subramanian@gmail.com to reach me.
-- Visit my personal site [click here](https://ganapathyda.github.io/Personal-Site/)
+- Visit my personal site [click here](https://GanapathySubramanian.github.io/Personal-Site/)
 
    
   </em>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=ganapathyda&show_icons=true&theme=algolia)
+![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=GanapathySubramanian&show_icons=true&theme=algolia)
 
 <br/>
 
