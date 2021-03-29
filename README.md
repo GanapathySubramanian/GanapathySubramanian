@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   <!--heroku-->
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <!--000webhosts-->
-   <a href="https://in.000webhost.com/cpanel-login" target="_blank"> <img src="https://www.000webhost.com/static/default.000webhost.com/images/logo/400x400-red.png" alt="000webhost" width="40" height="40"/> </a>
+   <a href="https://in.000webhost.com/cpanel-login" target="_blank"> <img src="https://pbs.twimg.com/profile_images/965911033813590016/k1SrAvnA_400x400.jpg" alt="000webhost" width="40" height="40"/> </a>
 </p>
 
  
