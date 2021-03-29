@@ -88,7 +88,12 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/in/products/illustrator" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQloHm47pmbddzLNDV__oBMBqIH5kpFP-aaQ&usqp=CAU" alt="illustrator" width="40" height="40"/> </a>
   <!--Canvas-->
   <a href="#" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/vector-icons-15/96/740-512.png" alt="canvas" width="40" height="40"/> </a>
-  
+  <!-Git-->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <!--heroku-->
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <!--000webhost-->
+   <a href="https://in.000webhost.com/cpanel-login" target="_blank"> <img src="https://www.cyberinsurance.com/wp-content/uploads/2018/03/000webhost.png" alt="000webhost" width="40" height="40"/> </a>
 </p>
 
  
