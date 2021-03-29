@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <!--heroku-->
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <!--000webhost-->
+  <!--000webhosts-->
    <a href="https://in.000webhost.com/cpanel-login" target="_blank"> <img src="https://www.000webhost.com/static/default.000webhost.com/images/logo/400x400-red.png" alt="000webhost" width="40" height="40"/> </a>
 </p>
 
