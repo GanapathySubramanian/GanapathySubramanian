@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 <a href="https://fb.com/ganapathysubramanian.ganapathysubramanian.336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
 <a href="https://instagram.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganapathyda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Ganapathy512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ganapathyda" height="30" width="40" /></a>
-  <a href="https://dribbble.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ganapathyda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ganapathyda" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ganapathyda/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ganapathyda" height="30" width="40" /></a>
 </p>
