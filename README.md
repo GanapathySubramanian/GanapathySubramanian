@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GanapathySubramanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganapathyda" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">
   <!--c-->
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
