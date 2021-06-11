@@ -79,7 +79,9 @@ Here are some ideas to get you started:
   <!--express-->
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
    <!--couchdb-->
-  <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> 
+  <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a>
+ <!--MongoDB-->
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!--postman-->
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <!--Adobe Flash-->
@@ -88,7 +90,9 @@ Here are some ideas to get you started:
   <a href="https://www.adobe.com/in/products/illustrator" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQloHm47pmbddzLNDV__oBMBqIH5kpFP-aaQ&usqp=CAU" alt="illustrator" width="40" height="40"/> </a>
   <!--Canvas-->
   <a href="#" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/vector-icons-15/96/740-512.png" alt="canvas" width="40" height="40"/> </a>
-  <!-Git-->
+  <!--Chart js data visualization-->
+   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <!--Git-->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <!--heroku-->
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
