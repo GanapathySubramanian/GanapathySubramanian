@@ -84,10 +84,6 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!--postman-->
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <!--Adobe Flash-->
-  <a href="https://www.adobe.com/in/products/flashplayer/end-of-life.html" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Flash.png" alt="Flash" width="40" height="40"/> </a>
-  <!--Adobe illustrator-->
-  <a href="https://www.adobe.com/in/products/illustrator" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQloHm47pmbddzLNDV__oBMBqIH5kpFP-aaQ&usqp=CAU" alt="illustrator" width="40" height="40"/> </a>
   <!--Canvas-->
   <a href="#" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/vector-icons-15/96/740-512.png" alt="canvas" width="40" height="40"/> </a>
   <!--Chart js data visualization-->
