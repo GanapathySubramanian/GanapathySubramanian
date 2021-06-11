@@ -68,6 +68,8 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <!--javascript-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <!--Chart js data visualization-->
+   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
    <!--jQuery-->
   <a href="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" target="_blank"> <img src="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="javascript" width="40" height="40"/> </a>
   <!--php-->
@@ -83,16 +85,15 @@ Here are some ideas to get you started:
  <!--MongoDB-->
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <!--postman-->
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <!--Canvas-->
   <a href="#" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/vector-icons-15/96/740-512.png" alt="canvas" width="40" height="40"/> </a>
-  <!--Chart js data visualization-->
-   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+   <!--Git-->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ 
   </p>
   <h3 align="left">Worked with :</h3>
   <p align="left">
-  <!--Git-->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <!--heroku-->
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <!--000webhosts-->
