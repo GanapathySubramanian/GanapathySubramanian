@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 ### Connect with me :
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ganapathy%20Subramanian-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/)](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ganapathy%20Subramanian-blue?style=flat-circle&logo=Linkedin&labelColor=blue&logoColor=white&link=https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/)](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Ganapathyda-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ganapathyda)](https://twitter.com/ganapathyda) 
 [![Facebook Badge](https://img.shields.io/badge/-@ganapathysubramanian-4267B2?style=flat-circle&labelColor=4267B2&logo=facebook&logoColor=white&link=https://fb.com/ganapathysubramanian.ganapathysubramanian.336)](https://fb.com/ganapathysubramanian.ganapathysubramanian.336) 
 [![Hackerrank Badge](https://img.shields.io/badge/-@Ganapathy512-black?style=flat-circle&labelColor=black&logo=hackerrank&logoColor=228B22&link=https://www.hackerrank.com/Ganapathy512)](https://www.hackerrank.com/Ganapathy512)
