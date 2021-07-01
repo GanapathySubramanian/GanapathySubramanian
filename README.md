@@ -108,15 +108,13 @@ Here are some ideas to get you started:
 
 </p>
 
- 
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://twitter.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganapathy-subramanian-897325194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
-<a href="https://fb.com/ganapathysubramanian.ganapathysubramanian.336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
-<a href="https://instagram.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Ganapathy512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganapathyda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ganapathyda" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ganapathyda/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ganapathyda" height="30" width="40" /></a>
-</p>
+### Connect with me :
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ganapathy%20Subramanian-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/)](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Ganapathyda-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ganapathyda)](https://twitter.com/ganapathyda) 
+[![Facebook Badge](https://img.shields.io/badge/-@ganapathysubramanian-4267B2?style=flat-circle&labelColor=4267B2&logo=facebook&logoColor=white&link=https://fb.com/ganapathysubramanian.ganapathysubramanian.336)](https://fb.com/ganapathysubramanian.ganapathysubramanian.336) 
+[![Hackerrank Badge](https://img.shields.io/badge/-@Ganapathy512-black?style=flat-circle&labelColor=black&logo=hackerrank&logoColor=228B22&link=https://www.hackerrank.com/Ganapathy512)](https://www.hackerrank.com/Ganapathy512)
+[![Geeksforgeeks Badge](https://img.shields.io/badge/-@Ganapathyda-green?style=flat-circle&labelColor=green&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/ganapathyda/practice/)](https://auth.geeksforgeeks.org/user/ganapathyda/practice/)
+[![Gmail Badge](https://img.shields.io/badge/-@ganapathy2000subramanian-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ganapathy2000subramanian@gmail.com)](mailto:ganapathy2000subramanian@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@Ganapathyda-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/ganapathyda)](https://www.instagram.com/ganapathyda) 
