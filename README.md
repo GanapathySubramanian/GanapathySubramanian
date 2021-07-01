@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     <!--Chart js data visualization-->
    <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
    <!--jQuery-->
-  <a href="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" target="_blank"> <img src="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/124064864-47ff8180-da53-11eb-81d5-9c42534e0296.png" alt="jquery" width="40" height="40"/> </a>
   <!--php-->
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <!--mysql-->
