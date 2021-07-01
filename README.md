@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <!--nodejs-->
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <!--express-->
-  <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/121723291-f32bb380-cb03-11eb-984c-b070128c9241.png" alt="express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/124065873-3f0faf80-da55-11eb-930d-43995f2e7e83.png" alt="express" width="40" height="40"/> </a>
    <!--couchdb-->
   <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a>
  <!--MongoDB-->
