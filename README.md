@@ -93,22 +93,6 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
   </p>
-  <h3 align="left">Worked with :</h3>
-  <p align="left">
-  <!--heroku-->
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <!--000webhosts-->
-   <a href="https://in.000webhost.com/cpanel-login" target="_blank"> <img src="https://pbs.twimg.com/profile_images/965911033813590016/k1SrAvnA_400x400.jpg" alt="000webhost" width="40" height="40"/> </a>
-  <!--Qovery-->
-   <a href="https://www.qovery.com/" target="_blank"> <img src="https://media.licdn.cn/dms/image/C560BAQGtoXSha5ny-Q/company-logo_200_200/0/1575660042606?e=2159024400&v=beta&t=l4CHGJrlr10PybsIjgbOVkGtO2kccJAzN224VCnnekI" alt="qovery" width="40" height="40"/> </a>
-  <!--Vercel-->
-   <a href="https://vercel.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14985020?s=280&v=4" alt="qovery" width="40" height="40"/> </a>
-<!--Glitch-->
-   <a href="https://glitch.com/" target="_blank"> <img src="https://miro.medium.com/max/512/1*vZWl35P2WKk_GWnVQlI2iA.png" alt="qovery" width="40" height="40"/> </a>
-
-
-</p>
-
 
 ### Connect with me :
 
