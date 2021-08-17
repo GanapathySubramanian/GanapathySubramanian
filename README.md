@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - 🤔 My interests are with Web App Development 
 - 🌱 I’m currently learning more about Front-end frameworks and backend frameworks
 - 👨‍💻 I'm currently working on ReactJs
-- 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU <img src="https://user-images.githubusercontent.com/60843507/124066713-cf022900-da56-11eb-8489-dce65ac507de.png" width=40 height=30>
+- 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU
+- 💬 Ask me about NodeJs, Express.js, ejs, MongoDB, React, AngularJs
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via ganapathy2000subramanian@gmail.com to reach me.
 - Visit my personal site [click here](https://GanapathySubramanian.github.io/Personal-Site/)
