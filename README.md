@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU
 - 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs
 - 💬 i am always available  to clear all your stuffs 
+- 📫 How to reach me: [Linkedin - @Ganapathy Subramanian](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) | [Twitter - @Ganapathyda](https://twitter.com/ganapathyda) | [Instagram - @Ganapathyda](https://www.instagram.com/ganapathyda/) | [Facebook - @GanapathySubramanian ](https://www.facebook.com/ganapathysubramanian.ganapathysubramanian.336)
 - 📫 Please email via ganapathy2000subramanian@gmail.com to reach me.
 - Visit my personal site [click here](https://GanapathySubramanian.github.io/Personal-Site/)
 
@@ -98,12 +99,13 @@ Here are some ideas to get you started:
  
   </p>
 
-### Connect with me :
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ganapathy%20Subramanian-blue?style=flat-circle&logo=Linkedin&labelColor=blue&logoColor=white&link=https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/)](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) 
-[![Twitter Badge](https://img.shields.io/badge/-@Ganapathyda-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ganapathyda)](https://twitter.com/ganapathyda) 
-[![Facebook Badge](https://img.shields.io/badge/-@ganapathysubramanian-4267B2?style=flat-circle&labelColor=4267B2&logo=facebook&logoColor=white&link=https://fb.com/ganapathysubramanian.ganapathysubramanian.336)](https://fb.com/ganapathysubramanian.ganapathysubramanian.336) 
-[![Hackerrank Badge](https://img.shields.io/badge/-@Ganapathy512-black?style=flat-circle&labelColor=black&logo=hackerrank&logoColor=228B22&link=https://www.hackerrank.com/Ganapathy512)](https://www.hackerrank.com/Ganapathy512)
-[![Geeksforgeeks Badge](https://img.shields.io/badge/-@Ganapathyda-green?style=flat-circle&labelColor=green&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/ganapathyda/practice/)](https://auth.geeksforgeeks.org/user/ganapathyda/practice/)
-[![Gmail Badge](https://img.shields.io/badge/-@ganapathy2000subramanian-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:ganapathy2000subramanian@gmail.com)](mailto:ganapathy2000subramanian@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@Ganapathyda-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/ganapathyda)](https://www.instagram.com/ganapathyda) 
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/ganapathy subramanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganapathy subramanian" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ganapathy512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganapathy512" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ganapathyda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ganapathyda" height="30" width="40" /></a>
+<a href="https://instagram.com/ganapathyda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganapathyda" height="30" width="40" /></a>
+<a href="https://fb.com/ganapathysubramanian.ganapathysubramanian.336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganapathysubramanian.ganapathysubramanian.336" height="30" width="40" /></a>
+<a href="https://twitter.com/ganapathyda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganapathyda" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/GanapathySubramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ganapathysubramanian" height="30" width="40" /></a>
+</p>
