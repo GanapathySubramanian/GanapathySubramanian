@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about Front-end frameworks and backend frameworks
 - 👨‍💻 I'm currently working on ReactJs
 - 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU
-- 💬 Ask me about NodeJs, Express.js, ejs, MongoDB, React, AngularJs
+- 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via ganapathy2000subramanian@gmail.com to reach me.
 - Visit my personal site [click here](https://GanapathySubramanian.github.io/Personal-Site/)
