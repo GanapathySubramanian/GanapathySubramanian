@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 <img  align="center" width="100%⁹" height="120%" src="https://user-images.githubusercontent.com/60843507/111036837-4af44900-8447-11eb-9cbd-776fd4737549.gif" />
 
 <br/>
-<br/>
-<br/>
 
 ![Ganapathy's github stats](https://github-readme-stats.vercel.app/api?username=GanapathySubramanian&show_icons=true&theme=algolia)
 
