@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs
 - 💬 i am always available  to clear all your stuffs 
 - 📫 How to reach me: [Linkedin - @Ganapathy Subramanian](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) | [Instagram - @Ganapathyda](https://www.instagram.com/ganapathyda/) | [Facebook - @GanapathySubramanian ](https://www.facebook.com/ganapathysubramanian.ganapathysubramanian.336)
-- 📧 Please email via ganapathy2000subramanian@gmail.com to reach me.
+- ✉️ Please email via ganapathy2000subramanian@gmail.com to reach me.
 - Visit my personal site [click here](https://GanapathySubramanian.github.io/Personal-Site/)
 
    
