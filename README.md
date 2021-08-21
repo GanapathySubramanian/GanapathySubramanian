@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganapathysubramanian&" alt="ganapathysubramanian" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GanapathySubramanian&label=Profile%20views&color=0e75b6&style=flat" alt="ganapathyda" /> </p>
 
 <h3 align="left">Languages and Tools :</h3>
