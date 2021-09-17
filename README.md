@@ -72,9 +72,13 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <!--javascript-->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- Angular js-->
-  <a href="https://docs.angularjs.org/guide" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/127207207-9a6632a2-6705-44a8-a66f-10c2f35a1a50.png" alt="javascript" width="40" height="40"/> </a>
-  <!-- React js -->
+ <!--Typescript-->
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<!-- Angular js-->
+  <a href="https://docs.angularjs.org/guide" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/127207207-9a6632a2-6705-44a8-a66f-10c2f35a1a50.png" alt="javascript" width="40" height="40" /></a>
+ <!-- Angular -->
+ <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<!-- React js -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <!--Chart js data visualization-->
    <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
