@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about Front-end frameworks and backend frameworks
 - 👨‍💻 I'm currently working on Typescript and Angular
 - 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU
-- 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs - (MEAN/MERN)
+- 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs - (MEAN/MERN),Angular,Typescript
 - 💬 i am always available  to clear all your stuffs 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ganapathy-subramanian-9458a4207/) | [Instagram](https://www.instagram.com/ganapathyda/) | [Facebook](https://www.facebook.com/ganapathysubramanian.ganapathysubramanian.336)
 - 📩 Please email via ganapathy2000subramanian@gmail.com to reach me.
