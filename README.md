@@ -91,12 +91,9 @@ Here are some ideas to get you started:
   <!--php-->
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <!--Spring-->
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-
- 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  
   <!--nodejs-->
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  
   <!--express-->
   <a href="https://expressjs.com" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/124065873-3f0faf80-da55-11eb-930d-43995f2e7e83.png" alt="express" width="40" height="40"/> </a>
    <!--couchdb-->
