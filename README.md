@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🤔 My interests are with Web App Development 
 - 🌱 I’m currently learning more about frontend & backend frameworks
-- 👨‍💻 I'm currently working on Angular and Typescript
+- 👨‍💻 I'm currently working on Aws services
 - 🎬 I love watching Adventures and survival movies and I'm a big fan of MCU
 - 💬 Ask me about NodeJs, ExpressJs, MongoDB, React, AngularJs - (MEAN/MERN),Angular,Typescript
 - 💬 i am always available  to clear all your stuffs 
