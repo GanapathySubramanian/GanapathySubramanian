@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🔭 I have completed my BTech Information Technology at [velammal college of engineering and technology](https://vcet.ac.in/)
 
+Iam an Associate Software Engineer at Presidio
+
 <p>
   <em>
     A <b>student</b> and a passionate<b> programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
